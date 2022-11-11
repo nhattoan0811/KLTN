@@ -1,0 +1,13 @@
+.wrapper {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.102);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+    height: var(--defaultLayout-header-hight);
+    padding: 21px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
